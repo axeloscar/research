@@ -46,3 +46,4 @@ My current work especially focuses on:
 - formal reasoning about Moving Target Defense strategies
 - verification of security properties in automotive cyber-physical systems
 - bridging theoretical models with realistic system architectures and attack scenarios
+- 
