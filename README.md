@@ -1,10 +1,3 @@
-# Research and Extended Paper Links
-
-This repository gathers some of my research directions, open questions, and extended or supporting versions of my papers.
-
-If you are interested in discussing or collaborating on any of these topics, feel free to contact me:
-- contact(at)axeloscar(dot)com
-
 # Research and Extended Paper Link
 Research work folder, you can find some area of my research and research question that i'am interested to explore contact me you want to work on it by mail :
 - contact(at)axeloscar(dot)com
